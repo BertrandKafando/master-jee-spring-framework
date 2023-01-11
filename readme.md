@@ -3,20 +3,21 @@
 # Architecture web
 
 <p align="center">
-    <img src="./images/1.png">
+    <img src="./imgs/1.png">
 </p>
 
  > Backend
 
-    php
-    JEE
-    Dot Net
-    Node Js
+    php -f  lavarel, symphony,...
+    JEE  -f spring ( derriere y'a d'autres frameworks comme hibernate,spring security,..)
+    Dot Net -f  asp.net,Entity Framework
+    Node Js -f express, Next js
+    Python -f Django,Flask, ...
 
 
  > Frontend
 
-    javascript:  Angular, React, Vuejs...
+    javascript -f  Angular, React, Vuejs...
     Html
     Css
 
