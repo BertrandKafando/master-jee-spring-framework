@@ -22,10 +22,48 @@
     Css
 
 
-# pourquoi utilisé les framework?
+# pourquoi utilisé les frameworks?
 
 ```
+
 Developer des applications respectants les bonnes pratiques, de bon qualité avec un temps réduit.
+Les frameworks s'ocuppe des bésoins techniques et le developpeur le besoin fonctionnel. -p  IOC
+
 
 ```
+
+# Single thread non bloquante & Multi thread Bloquantes
+
+
+
+
+# Serveurs & hébergement
+
+```
+> pulseHeberg
+
+```
+
+
+## JEE
+```
+une architecture qui offre un ensemble de framework pour developper des applications
+
+```
+
+>IOC
+
+```
+le technique pour le framework 
+
+JEE -f Spring 
+il permet d'integrer les autres frameworks hibernates,..
+
+```
+
+> AOP
+
+```
+```
+
 
