@@ -19,7 +19,7 @@
 
     javascript -f  Angular, React, Vuejs...
     Html
-    Css
+    Css -f bootstrap, Tailwind
 
 
 # pourquoi utilisé les frameworks?
