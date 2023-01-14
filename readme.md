@@ -69,8 +69,13 @@ JEE -f EJB  conteneur lourd(...)
 ```
 
 ## Serveur d'applications
+<br>
+<p align="center">
+    <img src="./imgs/3.png">
+</p>
+
 ```
-Serveur Application = Contneur web + Framework* + ...
+Serveur Application = Contneur web + spring ou EJB conteneur (framework) + services de l'infrastructure (ensembles de frameworks,...)
 
  Le serveur d'applications contient des conteneurs Web, EJB et un serveur Web en tant que partie intégrée.
 
@@ -81,3 +86,4 @@ Serveur Application = Contneur web + Framework* + ...
 
 ```
 
+> App = Serveur d'app + Frameworl IOC  + Frameworrk Mapping OR( Hibernate ) +  Framework web (Spring MVC, JSF,) + ...
