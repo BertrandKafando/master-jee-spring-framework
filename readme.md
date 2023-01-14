@@ -9,7 +9,7 @@
  > Backend
 
     php -f  lavarel, symphony,...
-    JEE  -f spring ( derriere y'a d'autres frameworks comme hibernate,spring security,..)
+    JEE  -f spring, EJB ( derriere y'a d'autres frameworks comme hibernate,spring security,..)
     Dot Net -f  asp.net,Entity Framework
     Node Js -f express, Next js
     Python -f Django,Flask, ...
@@ -56,8 +56,10 @@ une architecture qui offre un ensemble de framework pour developper des applicat
 ```
 le technique pour le framework 
 
-JEE -f Spring 
+JEE -f Spring
 il permet d'integrer les autres frameworks hibernates,..
+
+JEE -f EJB  conteneur lourd(...)
 
 ```
 
@@ -66,4 +68,16 @@ il permet d'integrer les autres frameworks hibernates,..
 ```
 ```
 
+## Serveur d'applications
+```
+Serveur Application = Contneur web + Framework* + ...
+
+ Le serveur d'applications contient des conteneurs Web, EJB et un serveur Web en tant que partie intégrée.
+
+ expose la partie metier d'une application generalement sous forme d'API.
+
+ JBOSS, Web Sphere
+ ** Tomcat ( conteneur web combiné spring pour formé un serveur d'application )
+
+```
 
