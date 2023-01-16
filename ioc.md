@@ -25,7 +25,7 @@ il permet de separer les différents aspect de l'app. le code de chaque partie (
 
 exemple: AspectJ, Spring AOP
 
-c'est lui qui fait le greffage du code technique et le metier 
+c'est lui qui fait le greffage du code technique et le metier ( annotation pour le cas de spring)
 
 
 ```
